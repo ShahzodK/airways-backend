@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Muller",
+      "gender": "male",
+      "number": "+998901234567",
+      "citizenship": "Uzbekistan",
+      "booked_flights": {
+        "bla_bla_book_id": {
+          "id": 1,
+          "flight_No": "DB1212",
+          "departure": {
+            "id": 1,
+            "time": "20.05.2023, 13:00",
+            "ticket_owners": [
+              {
+                "name": "Sebastian_Muller",
+                "seat": "8f",
+                "type": "adult",
+                "price": "85$",
+                "luggage": {
+                  "cabin_bag": 1,
+                  "checked_bag": "23kg",
+                  "personal_item": 1
+                }
+              },
+              {
+                "name": "Herta_Muller",
+                "seat": "8a",
+                "type": "child",
+                "price": "98$",
+                "luggage": {
+                  "cabin_bag": 2,
+                  "checked_bag": "10kg",
+                  "personal_item": 2
+                }
+              },
+              {
+                "name": "Liza_Muller",
+                "seat": "8b",
+                "type": "infant",
+                "price": "120$",
+                "luggage": {
+                  "cabin_bag": 1,
+                  "checked_bag": "15kg",
+                  "personal_item": 1
+                }
+              }
+            ]
+          },
+          "destination": {
+            "id": 2,
+            "time": "20.05.2023, 21:00",
+            "ticket_owners": [
+              {
+                "name": "Sebastian_Muller",
+                "seat": "8f",
+                "type": "adult",
+                "price": "85$",
+                "luggage": {
+                  "cabin_bag": 1,
+                  "checked_bag": "23kg",
+                  "personal_item": 1
+                }
+              },
+              {
+                "name": "Herta_Muller",
+                "seat": "8a",
+                "type": "child",
+                "price": "98$",
+                "luggage": {
+                  "cabin_bag": 2,
+                  "checked_bag": "10kg",
+                  "personal_item": 2
+                }
+              },
+              {
+                "name": "Liza_Muller",
+                "seat": "8b",
+                "type": "infant",
+                "price": "120$",
+                "luggage": {
+                  "cabin_bag": 1,
+                  "checked_bag": "15kg",
+                  "personal_item": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "flights": {
+    "Dubai-Dublin": {
+      "flight_no": "DB1212",
+      "seats_amount": 123,
+      "columns": 10,
+      "rows": "[a, b, c, d]",
+      "dates": [
+        {
+          "date": "20.05.2023, 13:00",
+          "prices": {
+            "adult": "75$",
+            "child": "87$",
+            "infant": "93$"
+          }
+        },
+        {
+          "date": "21.05.2023, 13:00",
+          "prices": {
+            "adult": "78$",
+            "child": "89$",
+            "infant": "99$"
+          }
+        },
+        {
+          "date": "22.05.2023, 13:00",
+          "prices": {
+            "adult": "81$",
+            "child": "93$",
+            "infant": "105$"
+          }
+        },
+        {
+          "date": "23.05.2023, 13:00",
+          "prices": {
+            "adult": "75$",
+            "child": "80$",
+            "infant": "94$"
+          }
+        }
+      ]
+    }
+  }
+}
