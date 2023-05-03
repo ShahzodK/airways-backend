@@ -91,10 +91,52 @@
           }
         }
       }
+    },
+    {
+      "email": "shahzod1505@gmail.com",
+      "password": "$2a$10$8BHm732GIv95e3gDBqAKxewt8Y4RrqvzY/zFb3Mb4LPj/XbVQ5IFq",
+      "id": 2
+    },
+    {
+      "email": "shahzod@gmail.com",
+      "password": "$2a$10$5qruJ5f8aLscZ9pax1xAeuqxf8di8hBS79qYF18sbVhhIHB1xQqXC",
+      "first_name": "shahozd",
+      "last_name": "ergr",
+      "gender": "male",
+      "number": "+998901236y4567",
+      "citizenship": "Uzbekiystan",
+      "booked_flights": {
+        "bla_bla_book_id": {
+          "flight_No": "DB1212"
+        }
+      },
+      "id": 3
+    },
+    {
+      "email": "shfrahzod@gmail.com",
+      "password": "$2a$10$TxCV8Tw6Too4efy6dprP3ebUWoiMIwDymzuSobux7ndRqHTZ1ZA5e",
+      "username": "Shahzod",
+      "id": 4
+    },
+    {
+      "email": "shahzodbek@gmail.com",
+      "password": "$2a$10$Qw4hixK/dkCbroiTPM/O6.yTGgm.RNTNFCOGogr7m9XoR/OdpxI1K",
+      "firstName": "Shahzod",
+      "lastName": "Kakhkhorov",
+      "dateOfBirth": "2001-06-12T19:00:00.000Z",
+      "gender": "female",
+      "country": "+7",
+      "phone": "7777777777",
+      "citizenship": "United Arab Emirates",
+      "assent": true,
+      "id": 5
     }
   ],
-  "flights": {
-    "Dubai-Dublin": {
+  "flights": [
+    {
+      "flight_name": "Dublin-Dubai",
+      "departure": "Dublin",
+      "destination": "Dubai", 
       "flight_no": "DB1212",
       "seats_amount": 123,
       "columns": 10,
@@ -133,6 +175,92 @@
           }
         }
       ]
+    },
+    {
+      "flight_name": "Istanbul-Chicago",
+      "departure": "Istanbul",
+      "destination": "Chicago", 
+      "flight_no": "IS1869",
+      "seats_amount": 250,
+      "columns": 10,
+      "rows": "[a, b, c, d]",
+      "dates": [
+        {
+          "date": "20.05.2023, 17:00",
+          "prices": {
+            "adult": "125$",
+            "child": "137$",
+            "infant": "145$"
+          }
+        },
+        {
+          "date": "21.05.2023, 17:00",
+          "prices": {
+            "adult": "149$",
+            "child": "160$",
+            "infant": "171$"
+          }
+        },
+        {
+          "date": "22.05.2023, 17:00",
+          "prices": {
+            "adult": "150$",
+            "child": "155$",
+            "infant": "161$"
+          }
+        },
+        {
+          "date": "23.05.2023, 17:00",
+          "prices": {
+            "adult": "180$",
+            "child": "193$",
+            "infant": "201$"
+          }
+        }
+      ]
+    },
+    {
+      "flight_name": "Rome-Oslo",
+      "departure": "Rome",
+      "destination": "Oslo", 
+      "flight_no": "RM1590",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": "[a, b, c, d]",
+      "dates": [
+        {
+          "date": "20.05.2023, 14:00",
+          "prices": {
+            "adult": "93$",
+            "child": "99$",
+            "infant": "102$"
+          }
+        },
+        {
+          "date": "21.05.2023, 14:00",
+          "prices": {
+            "adult": "71$",
+            "child": "85$",
+            "infant": "92$"
+          }
+        },
+        {
+          "date": "22.05.2023, 14:00",
+          "prices": {
+            "adult": "73$",
+            "child": "85$",
+            "infant": "94$"
+          }
+        },
+        {
+          "date": "23.05.2023, 14:00",
+          "prices": {
+            "adult": "78$",
+            "child": "88$",
+            "infant": "97$"
+          }
+        }
+      ]
     }
-  }
+  ]
 }
