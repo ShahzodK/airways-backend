@@ -262,5 +262,13 @@
         }
       ]
     }
+  ],
+  "flights_name": [
+    "Dublin-Dubai",
+    "Istanbul-Chicago",
+    "Rome-Oslo",
+    "Dubai-Dublin",
+    "Chicago-Istanbul",
+    "Oslo-Rome"
   ]
 }
