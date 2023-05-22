@@ -143,36 +143,103 @@
       "rows": "[a, b, c, d]",
       "dates": [
         {
-          "date": "20.05.2023, 13:00",
+          "date": "05.20.2023",
           "prices": {
             "adult": "75$",
             "child": "87$",
             "infant": "93$"
-          }
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
         },
         {
-          "date": "21.05.2023, 13:00",
+          "date": "05.21.2023",
           "prices": {
             "adult": "78$",
             "child": "89$",
             "infant": "99$"
-          }
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m"
         },
         {
-          "date": "22.05.2023, 13:00",
+          "date": "05.22.2023",
           "prices": {
             "adult": "81$",
             "child": "93$",
             "infant": "105$"
-          }
+          },
+          "departure_time": "14:45",
+          "arrival_time": "19:45",
+          "duration": "5h 00m"
         },
         {
-          "date": "23.05.2023, 13:00",
+          "date": "05.23.2023",
           "prices": {
             "adult": "75$",
             "child": "80$",
             "infant": "94$"
-          }
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
+        }
+      ]
+    },
+    {
+      "flight_name": "Dubai-Dublin",
+      "departure": "Dubai",
+      "destination": "Dublin", 
+      "flight_no": "DB1212",
+      "seats_amount": 123,
+      "columns": 10,
+      "rows": "[a, b, c, d]",
+      "dates": [
+        {
+          "date": "05.20.2023",
+          "prices": {
+            "adult": "77$",
+            "child": "87$",
+            "infant": "93$"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
+        },
+        {
+          "date": "05.21.2023",
+          "prices": {
+            "adult": "70$",
+            "child": "89$",
+            "infant": "99$"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m"
+        },
+        {
+          "date": "05.22.2023",
+          "prices": {
+            "adult": "78$",
+            "child": "93$",
+            "infant": "105$"
+          },
+          "departure_time": "14:45",
+          "arrival_time": "19:45",
+          "duration": "5h 00m"
+        },
+        {
+          "date": "05.23.2023",
+          "prices": {
+            "adult": "80$",
+            "child": "80$",
+            "infant": "94$"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
         }
       ]
     },
@@ -186,36 +253,48 @@
       "rows": "[a, b, c, d]",
       "dates": [
         {
-          "date": "20.05.2023, 17:00",
+          "date": "05.20.2023",
           "prices": {
             "adult": "125$",
             "child": "137$",
             "infant": "145$"
-          }
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m"
         },
         {
-          "date": "21.05.2023, 17:00",
+          "date": "05.22.2023",
           "prices": {
             "adult": "149$",
             "child": "160$",
             "infant": "171$"
-          }
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m"
         },
         {
-          "date": "22.05.2023, 17:00",
+          "date": "05.23.2023",
           "prices": {
             "adult": "150$",
             "child": "155$",
             "infant": "161$"
-          }
+          },
+          "departure_time": "12:00",
+          "arrival_time": "21:00",
+          "duration": "9h 00m"
         },
         {
-          "date": "23.05.2023, 17:00",
+          "date": "05.24.2023",
           "prices": {
             "adult": "180$",
             "child": "193$",
             "infant": "201$"
-          }
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m"
         }
       ]
     },
@@ -229,36 +308,48 @@
       "rows": "[a, b, c, d]",
       "dates": [
         {
-          "date": "20.05.2023, 14:00",
+          "date": "05.20.2023",
           "prices": {
             "adult": "93$",
             "child": "99$",
             "infant": "102$"
-          }
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
         },
         {
-          "date": "21.05.2023, 14:00",
+          "date": "05.21.2023",
           "prices": {
             "adult": "71$",
             "child": "85$",
             "infant": "92$"
-          }
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m"
         },
         {
-          "date": "22.05.2023, 14:00",
+          "date": "05.22.2023",
           "prices": {
             "adult": "73$",
             "child": "85$",
             "infant": "94$"
-          }
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m"
         },
         {
-          "date": "23.05.2023, 14:00",
+          "date": "05.23.2023",
           "prices": {
             "adult": "78$",
             "child": "88$",
             "infant": "97$"
-          }
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m"
         }
       ]
     }
