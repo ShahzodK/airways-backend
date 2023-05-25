@@ -140,7 +140,7 @@
       "flight_no": "DB1212",
       "seats_amount": 123,
       "columns": 10,
-      "rows": "[a, b, c, d]",
+      "rows": ["A", "B", "C", "D"],
       "dates": [
         {
           "date": "05.20.2023",
@@ -151,7 +151,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.21.2023",
@@ -162,7 +163,8 @@
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.22.2023",
@@ -173,7 +175,8 @@
           },
           "departure_time": "14:45",
           "arrival_time": "19:45",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.23.2023",
@@ -184,7 +187,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         }
       ]
     },
@@ -195,7 +199,7 @@
       "flight_no": "DB1212",
       "seats_amount": 123,
       "columns": 10,
-      "rows": "[a, b, c, d]",
+      "rows": ["A", "B", "C", "D"],
       "dates": [
         {
           "date": "05.20.2023",
@@ -206,7 +210,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.21.2023",
@@ -217,7 +222,8 @@
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.22.2023",
@@ -228,7 +234,8 @@
           },
           "departure_time": "14:45",
           "arrival_time": "19:45",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.23.2023",
@@ -239,7 +246,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         }
       ]
     },
@@ -250,7 +258,7 @@
       "flight_no": "IS1869",
       "seats_amount": 250,
       "columns": 10,
-      "rows": "[a, b, c, d]",
+      "rows": ["A", "B", "C", "D"],
       "dates": [
         {
           "date": "05.20.2023",
@@ -261,7 +269,8 @@
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
-          "duration": "9h 00m"
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.22.2023",
@@ -272,7 +281,8 @@
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
-          "duration": "9h 00m"
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.23.2023",
@@ -283,7 +293,8 @@
           },
           "departure_time": "12:00",
           "arrival_time": "21:00",
-          "duration": "9h 00m"
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.24.2023",
@@ -294,7 +305,8 @@
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
-          "duration": "9h 00m"
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
         }
       ]
     },
@@ -305,7 +317,7 @@
       "flight_no": "RM1590",
       "seats_amount": 170,
       "columns": 10,
-      "rows": "[a, b, c, d]",
+      "rows": ["A", "B", "C", "D"],
       "dates": [
         {
           "date": "05.20.2023",
@@ -316,7 +328,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.21.2023",
@@ -327,7 +340,8 @@
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.22.2023",
@@ -338,7 +352,8 @@
           },
           "departure_time": "15:00",
           "arrival_time": "20:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         },
         {
           "date": "05.23.2023",
@@ -349,7 +364,8 @@
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
-          "duration": "5h 00m"
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
         }
       ]
     }
