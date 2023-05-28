@@ -19,7 +19,7 @@
                 "name": "Sebastian_Muller",
                 "seat": "8f",
                 "type": "adult",
-                "price": "85$",
+                "price": "85",
                 "luggage": {
                   "cabin_bag": 1,
                   "checked_bag": "23kg",
@@ -30,7 +30,7 @@
                 "name": "Herta_Muller",
                 "seat": "8a",
                 "type": "child",
-                "price": "98$",
+                "price": "98",
                 "luggage": {
                   "cabin_bag": 2,
                   "checked_bag": "10kg",
@@ -41,7 +41,7 @@
                 "name": "Liza_Muller",
                 "seat": "8b",
                 "type": "infant",
-                "price": "120$",
+                "price": "120",
                 "luggage": {
                   "cabin_bag": 1,
                   "checked_bag": "15kg",
@@ -58,7 +58,7 @@
                 "name": "Sebastian_Muller",
                 "seat": "8f",
                 "type": "adult",
-                "price": "85$",
+                "price": "85",
                 "luggage": {
                   "cabin_bag": 1,
                   "checked_bag": "23kg",
@@ -69,7 +69,7 @@
                 "name": "Herta_Muller",
                 "seat": "8a",
                 "type": "child",
-                "price": "98$",
+                "price": "98",
                 "luggage": {
                   "cabin_bag": 2,
                   "checked_bag": "10kg",
@@ -80,7 +80,7 @@
                 "name": "Liza_Muller",
                 "seat": "8b",
                 "type": "infant",
-                "price": "120$",
+                "price": "120",
                 "luggage": {
                   "cabin_bag": 1,
                   "checked_bag": "15kg",
@@ -94,12 +94,12 @@
     },
     {
       "email": "shahzod1505@gmail.com",
-      "password": "$2a$10$8BHm732GIv95e3gDBqAKxewt8Y4RrqvzY/zFb3Mb4LPj/XbVQ5IFq",
+      "password": "2a108BHm732GIv95e3gDBqAKxewt8Y4RrqvzY/zFb3Mb4LPj/XbVQ5IFq",
       "id": 2
     },
     {
       "email": "shahzod@gmail.com",
-      "password": "$2a$10$5qruJ5f8aLscZ9pax1xAeuqxf8di8hBS79qYF18sbVhhIHB1xQqXC",
+      "password": "2a105qruJ5f8aLscZ9pax1xAeuqxf8di8hBS79qYF18sbVhhIHB1xQqXC",
       "first_name": "shahozd",
       "last_name": "ergr",
       "gender": "male",
@@ -114,13 +114,13 @@
     },
     {
       "email": "shfrahzod@gmail.com",
-      "password": "$2a$10$TxCV8Tw6Too4efy6dprP3ebUWoiMIwDymzuSobux7ndRqHTZ1ZA5e",
+      "password": "2a10TxCV8Tw6Too4efy6dprP3ebUWoiMIwDymzuSobux7ndRqHTZ1ZA5e",
       "username": "Shahzod",
       "id": 4
     },
     {
       "email": "shahzodbek@gmail.com",
-      "password": "$2a$10$Qw4hixK/dkCbroiTPM/O6.yTGgm.RNTNFCOGogr7m9XoR/OdpxI1K",
+      "password": "2a10Qw4hixK/dkCbroiTPM/O6.yTGgm.RNTNFCOGogr7m9XoR/OdpxI1K",
       "firstName": "Shahzod",
       "lastName": "Kakhkhorov",
       "dateOfBirth": "2001-06-12T19:00:00.000Z",
@@ -143,11 +143,11 @@
       "rows": ["A", "B", "C", "D"],
       "dates": [
         {
-          "date": "05.20.2023",
+          "date": "06.10.2023",
           "prices": {
-            "adult": "75$",
-            "child": "87$",
-            "infant": "93$"
+            "adult": "75",
+            "child": "87",
+            "infant": "93"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -155,11 +155,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.21.2023",
+          "date": "06.11.2023",
           "prices": {
-            "adult": "78$",
-            "child": "89$",
-            "infant": "99$"
+            "adult": "78",
+            "child": "89",
+            "infant": "99"
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
@@ -167,11 +167,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.22.2023",
+          "date": "06.12.2023",
           "prices": {
-            "adult": "81$",
-            "child": "93$",
-            "infant": "105$"
+            "adult": "81",
+            "child": "93",
+            "infant": "105"
           },
           "departure_time": "14:45",
           "arrival_time": "19:45",
@@ -179,11 +179,90 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.23.2023",
+          "date": "06.13.2023",
           "prices": {
-            "adult": "75$",
-            "child": "80$",
-            "infant": "94$"
+            "adult": "75",
+            "child": "80",
+            "infant": "94"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.13.2023",
+          "prices": {
+            "adult": "80",
+            "child": "80",
+            "infant": "94"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "81",
+            "child": "81",
+            "infant": "96"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "82",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "82",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "83",
+            "child": "83",
+            "infant": "99"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+          {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "86",
+            "child": "86",
+            "infant": "98"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "81",
+            "child": "81",
+            "infant": "90"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -202,11 +281,11 @@
       "rows": ["A", "B", "C", "D"],
       "dates": [
         {
-          "date": "05.20.2023",
+          "date": "06.10.2023",
           "prices": {
-            "adult": "77$",
-            "child": "87$",
-            "infant": "93$"
+            "adult": "77",
+            "child": "87",
+            "infant": "93"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -214,11 +293,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.21.2023",
+          "date": "06.11.2023",
           "prices": {
-            "adult": "70$",
-            "child": "89$",
-            "infant": "99$"
+            "adult": "70",
+            "child": "89",
+            "infant": "99"
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
@@ -226,11 +305,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.22.2023",
+          "date": "06.12.2023",
           "prices": {
-            "adult": "78$",
-            "child": "93$",
-            "infant": "105$"
+            "adult": "78",
+            "child": "93",
+            "infant": "105"
           },
           "departure_time": "14:45",
           "arrival_time": "19:45",
@@ -238,11 +317,59 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.23.2023",
+          "date": "06.13.2023",
           "prices": {
-            "adult": "80$",
-            "child": "80$",
-            "infant": "94$"
+            "adult": "82",
+            "child": "83",
+            "infant": "95"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "82",
+            "child": "84",
+            "infant": "97"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "89",
+            "child": "89",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "88",
+            "child": "88",
+            "infant": "91"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "81",
+            "child": "82",
+            "infant": "96"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -261,11 +388,11 @@
       "rows": ["A", "B", "C", "D"],
       "dates": [
         {
-          "date": "05.20.2023",
+          "date": "06.10.2023",
           "prices": {
-            "adult": "125$",
-            "child": "137$",
-            "infant": "145$"
+            "adult": "125",
+            "child": "137",
+            "infant": "145"
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
@@ -273,11 +400,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.22.2023",
+          "date": "06.12.2023",
           "prices": {
-            "adult": "149$",
-            "child": "160$",
-            "infant": "171$"
+            "adult": "149",
+            "child": "160",
+            "infant": "171"
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
@@ -285,11 +412,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.23.2023",
+          "date": "06.13.2023",
           "prices": {
-            "adult": "150$",
-            "child": "155$",
-            "infant": "161$"
+            "adult": "150",
+            "child": "155",
+            "infant": "161"
           },
           "departure_time": "12:00",
           "arrival_time": "21:00",
@@ -297,11 +424,226 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.24.2023",
+          "date": "06.15.2023",
           "prices": {
-            "adult": "180$",
-            "child": "193$",
-            "infant": "201$"
+            "adult": "189",
+            "child": "194",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "181",
+            "child": "195",
+            "infant": "209"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "182",
+            "child": "199",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "185",
+            "child": "192",
+            "infant": "201"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "186",
+            "child": "197",
+            "infant": "204"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "183",
+            "child": "198",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "181",
+            "child": "194",
+            "infant": "203"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Chicago-Istanbul",
+      "departure": "Chicago",
+      "destination": "Istanbul", 
+      "flight_no": "CH2475",
+      "seats_amount": 250,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "125",
+            "child": "137",
+            "infant": "145"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "149",
+            "child": "160",
+            "infant": "171"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.13.2023",
+          "prices": {
+            "adult": "150",
+            "child": "155",
+            "infant": "161"
+          },
+          "departure_time": "12:00",
+          "arrival_time": "21:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "189",
+            "child": "194",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "181",
+            "child": "195",
+            "infant": "209"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "182",
+            "child": "199",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "185",
+            "child": "192",
+            "infant": "201"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "186",
+            "child": "197",
+            "infant": "204"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "183",
+            "child": "198",
+            "infant": "202"
+          },
+          "departure_time": "10:00",
+          "arrival_time": "19:00",
+          "duration": "9h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+        ,
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "181",
+            "child": "194",
+            "infant": "203"
           },
           "departure_time": "10:00",
           "arrival_time": "19:00",
@@ -320,11 +662,11 @@
       "rows": ["A", "B", "C", "D"],
       "dates": [
         {
-          "date": "05.20.2023",
+          "date": "06.10.2023",
           "prices": {
-            "adult": "93$",
-            "child": "99$",
-            "infant": "102$"
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -332,11 +674,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.21.2023",
+          "date": "06.11.2023",
           "prices": {
-            "adult": "71$",
-            "child": "85$",
-            "infant": "92$"
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
           },
           "departure_time": "13:00",
           "arrival_time": "18:00",
@@ -344,11 +686,11 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.22.2023",
+          "date": "06.12.2023",
           "prices": {
-            "adult": "73$",
-            "child": "85$",
-            "infant": "94$"
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
           },
           "departure_time": "15:00",
           "arrival_time": "20:00",
@@ -356,11 +698,1476 @@
           "reserved_tickets": ["1A", "2A"]
         },
         {
-          "date": "05.23.2023",
+          "date": "06.14.2023",
           "prices": {
-            "adult": "78$",
-            "child": "88$",
-            "infant": "97$"
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Oslo-Rome",
+      "departure": "Oslo",
+      "destination": "Rome", 
+      "flight_no": "Os1346",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Rome-Dublin",
+      "departure": "Rome",
+      "destination": "Dublin", 
+      "flight_no": "RM1246",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Dublin-Rome",
+      "departure": "Dublin",
+      "destination": "Rome", 
+      "flight_no": "DB1240",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Rome-Istanbul",
+      "departure": "Rome",
+      "destination": "Istanbul", 
+      "flight_no": "RM1785",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Istanbul-Rome",
+      "departure": "Istanbul",
+      "destination": "Rome", 
+      "flight_no": "IS2100",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Dublin-Oslo",
+      "departure": "Dublin",
+      "destination": "Oslo", 
+      "flight_no": "DB8590",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Oslo-Dublin",
+      "departure": "Oslo",
+      "destination": "Dublin", 
+      "flight_no": "OS9900",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "93",
+            "child": "99",
+            "infant": "102"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "71",
+            "child": "85",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "94"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "73",
+            "child": "85",
+            "infant": "91"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "78",
+            "child": "82",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "98"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "71",
+            "child": "83",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "79",
+            "child": "89",
+            "infant": "94"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "74",
+            "child": "82",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "71",
+            "child": "82",
+            "infant": "95"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Dublin-Istanbul",
+      "departure": "Dublin",
+      "destination": "Istanbul", 
+      "flight_no": "DB2849",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "77",
+            "child": "87",
+            "infant": "93"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "70",
+            "child": "89",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "78",
+            "child": "93",
+            "infant": "105"
+          },
+          "departure_time": "14:45",
+          "arrival_time": "19:45",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.13.2023",
+          "prices": {
+            "adult": "82",
+            "child": "83",
+            "infant": "95"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "82",
+            "child": "84",
+            "infant": "97"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "89",
+            "child": "89",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "88",
+            "child": "88",
+            "infant": "91"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "81",
+            "child": "82",
+            "infant": "96"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Istanbul-Dublin",
+      "departure": "Istanbul",
+      "destination": "Dublin", 
+      "flight_no": "IS8934",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "77",
+            "child": "87",
+            "infant": "93"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "70",
+            "child": "89",
+            "infant": "99"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "78",
+            "child": "93",
+            "infant": "105"
+          },
+          "departure_time": "14:45",
+          "arrival_time": "19:45",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.13.2023",
+          "prices": {
+            "adult": "82",
+            "child": "83",
+            "infant": "95"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "82",
+            "child": "84",
+            "infant": "97"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "89",
+            "child": "89",
+            "infant": "92"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "88",
+            "child": "88",
+            "infant": "91"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "81",
+            "child": "82",
+            "infant": "96"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+       {
+      "flight_name": "Dubai-Chicago",
+      "departure": "Dubai",
+      "destination": "Chicago", 
+      "flight_no": "Du4235",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "193",
+            "child": "199",
+            "infant": "201"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "171",
+            "child": "185",
+            "infant": "292"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "173",
+            "child": "185",
+            "infant": "294"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "173",
+            "child": "185",
+            "infant": "291"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "178",
+            "child": "182",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "174",
+            "child": "182",
+            "infant": "298"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "171",
+            "child": "183",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "179",
+            "child": "189",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "174",
+            "child": "182",
+            "infant": "299"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "171",
+            "child": "182",
+            "infant": "295"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        }
+      ]
+    },
+    {
+      "flight_name": "Chicago-Dubai",
+      "departure": "Chicago",
+      "destination": "Dubai", 
+      "flight_no": "CH1245",
+      "seats_amount": 170,
+      "columns": 10,
+      "rows": ["A", "B", "C", "D"],
+      "dates": [
+        {
+          "date": "06.10.2023",
+          "prices": {
+            "adult": "193",
+            "child": "199",
+            "infant": "201"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.11.2023",
+          "prices": {
+            "adult": "171",
+            "child": "185",
+            "infant": "292"
+          },
+          "departure_time": "13:00",
+          "arrival_time": "18:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.12.2023",
+          "prices": {
+            "adult": "173",
+            "child": "185",
+            "infant": "294"
+          },
+          "departure_time": "15:00",
+          "arrival_time": "20:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.14.2023",
+          "prices": {
+            "adult": "173",
+            "child": "185",
+            "infant": "291"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.15.2023",
+          "prices": {
+            "adult": "178",
+            "child": "182",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.16.2023",
+          "prices": {
+            "adult": "174",
+            "child": "182",
+            "infant": "298"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.17.2023",
+          "prices": {
+            "adult": "171",
+            "child": "183",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.18.2023",
+          "prices": {
+            "adult": "179",
+            "child": "189",
+            "infant": "294"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.19.2023",
+          "prices": {
+            "adult": "174",
+            "child": "182",
+            "infant": "299"
+          },
+          "departure_time": "14:00",
+          "arrival_time": "19:00",
+          "duration": "5h 00m",
+          "reserved_tickets": ["1A", "2A"]
+        },
+        {
+          "date": "06.20.2023",
+          "prices": {
+            "adult": "171",
+            "child": "182",
+            "infant": "295"
           },
           "departure_time": "14:00",
           "arrival_time": "19:00",
@@ -373,9 +2180,19 @@
   "flights_name": [
     "Dublin-Dubai",
     "Istanbul-Chicago",
+    "Chicago-Istanbul",
     "Rome-Oslo",
     "Dubai-Dublin",
-    "Chicago-Istanbul",
-    "Oslo-Rome"
+    "Oslo-Rome",
+    "Chicago-Dubai",
+    "Dubai-Chicago",
+    "Istanbul-Dublin",
+    "Dublin-Istanbul",
+    "Oslo-Dublin",
+    "Dublin-Oslo",
+    "Istanbul-Rome",
+    "Rome-Istanbul",
+    "Dublin-Rome",
+    "Rome-Dublin"
   ]
 }
